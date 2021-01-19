@@ -1,0 +1,4 @@
+GitHub:
+Es un sistema de gestión de proyectos & contril de versiones de código, así como una plataforma de red social diseñada para desarrolladores.
+	En general permite trabajar en colaboración con otras persona de todo el mundo, planificar proyectos & realizar un seguimiento del trabajo.
+	Todo aquel que quiera administrar su proyecto de manera eficiente & trabajar en colaboración también puede usar GitHub.

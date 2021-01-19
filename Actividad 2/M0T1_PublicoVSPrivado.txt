@@ -1,0 +1,3 @@
+PÚBLICO VS PRIVADO
+
+Los repositorios públicos pueden set accesidos por cualquiera, mientras que a los privados sólo pueden acceder aquellos usuarios que posean las claves de autenticación apropiadas.

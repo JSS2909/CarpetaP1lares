@@ -1,0 +1,4 @@
+Existen tres tipos de permiso que se pueden aplicar, estos son:
+-LECTURA: Otorga al grupo el permiso de poder leer el archivo. Se indica con la letra "r" (inicial de read)
+-ESCRITURA: Otorga al grupo el permiso de poder editar el archivo pudiendo escribir en él. Se indica con la letra "w" (inicial de write)
+-EJECUCIÓN: Otorga al grupo el permiso de poder ejecutar el archivo. Se indica con la tecla "x" (proviene de execute) 

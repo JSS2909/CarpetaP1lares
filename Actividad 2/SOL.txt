@@ -1,0 +1,18 @@
+¿QUÉ ES LINUX?
+
+Linux es un sistema que nace de la combinación de varios proyectos entre los que destacan GNU y la Free Software Foundation además del propio núcleo de Linux encabezado por Linus Torvalds. 
+Su desarrollo es uno de los mejores ejemplos del software libre, donde todo su código fuente puede ser utilizado, modificado y distribuido libremente por cualquier bajo los términos de la licencia GPL o Licencia Pública General de GNU y otras licencias.
+
+CARACTERISTICAS A DESTACAR DE LINUX
+-Gratis
+-Código abierto
+-Seguro
+-Multitarea
+-Multiusuario
+-Alto control de dispositivos
+-Independiente
+-Estable
+-Escalable
+
+DISTRIBUCIONES LINUX
+No se trata más que de un software basado en el núcleo de Linux que incluye determinados paquetes de software que permiten desempeñar ciertas funciones para satisfacer las necesidades de los usuarios.
